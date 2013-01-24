@@ -16,6 +16,7 @@ public class RunMethods {
     public static void main(String[] args) {
         Truck obj = new Truck();
 //        System.out.println("Constructor : " );
+        
 
         System.out.println("11/23/2012".equals("11/23/2012"));
         int i = 9;
