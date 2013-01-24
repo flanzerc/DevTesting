@@ -17,8 +17,6 @@ public class RunMethods {
         Truck obj = new Truck();
 //        System.out.println("Constructor : " );
 
-        
-
         System.out.println("11/23/2012".equals("11/23/2012"));
         int i = 9;
         DecimalFormat df = new DecimalFormat("00");
