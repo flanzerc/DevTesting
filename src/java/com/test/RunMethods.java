@@ -26,6 +26,5 @@ public class RunMethods {
         }
 //        System.out.println(String.format("%5d", i));
 
-
     }
 }
